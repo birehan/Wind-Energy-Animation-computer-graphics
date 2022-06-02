@@ -1,6 +1,6 @@
 # Wind-Energy-Animation-computer-graphics
 On this git hub repository, we are going to develop a computer graphics animation using python OpenGL, Pygame ...
-WIND TURBINE
+
 First before explaining about the simulation we will introduce what is wind turbine? How does it work and other basic concepts that are considered through the process.
 
 A wind turbine is a device that converts the kinetic energy of wind into electrical energy.They are an increasingly important source of intermittent renewable energy,and are used in many countries to lower energy costs and reduce reliance on fossil fuels.
